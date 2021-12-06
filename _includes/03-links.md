@@ -1,1 +1,5 @@
-Replace this with a link to your a GitHub or social media profile.
+# My social media 
+[Linkedin](https://www.linkedin.com/in/pradeep-patwa/)
+[GitHub](https://github.com/pradeeppatwa)
+[Hackerrank](https://www.hackerrank.com/pradeeppatwa72)
+[Instagram](https://www.instagram.com/pradeeppatwa_/)
